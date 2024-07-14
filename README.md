@@ -1,7 +1,7 @@
 <a href="https://instagram.com/xidasp">
   <img src="https://gifdb.com/images/high/anime-banner-gif-file-477kb-u98xhbvjyzi3h3aj.gif" alt="Banner" style="width: 200%; max-width: 3048px;">
 </a>
-<h1 align="center">Hi 👋, I'm Dasp</h1>
+<h1 align="center">Hi, I'm Dasp 👋</h1>
 <h3 align="center">I am a self-taught 17-year-old developer from Chile. 🇨🇱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdasp&label=Profile%20views&color=0e75b6&style=flat" alt="itsdasp" /> </p>
