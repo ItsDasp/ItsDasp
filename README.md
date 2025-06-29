@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdasp&label=Profile%20views&color=0e75b6&style=flat" alt="itsdasp" /> </p>
 
-- 🦊 I’m currently working on **Senko**
+- 🦊 I’m currently working on [Senko](https://senko.nekomera.xyz)
 
 - 🌱 I’m currently learning **React**
 
