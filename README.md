@@ -16,13 +16,13 @@
 ```csharp
 dasp@github
 -------------------------
+I'm: 19 years old
 Pronouns: he/him
 Location: Santiago, CL
 Hobbies: Coding, watching anime and gaming
 Languages: TypeScript, Java, Python, Kotlin, C#, Rust
 Learning: C#, Rust, Social Skills
 Uptime: 7 Years
-~
 ~
 ~
 ~
