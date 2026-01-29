@@ -6,7 +6,12 @@
 > dasp@github: ~$ cd bio; ./bio.sh
 ```
 
-<img align="left" src="https://i.imgur.com/08MCvJy.jpeg" alt="Lain" width="320" /> 
+<picture>
+  <source media="(max-width: 768px)" srcset="https://i.imgur.com/IiljaKE.png" alt="Lain" width="100" />
+  <source media="(max-width: 769px)" srcset="https://i.imgur.com/IiljaKE.png" alt="Lain" width="100" />
+  <img align="left" src="https://i.imgur.com/C7r9Z06.png" alt="Lain" width="320">
+</picture>
+
 
 ```csharp
 dasp@github
