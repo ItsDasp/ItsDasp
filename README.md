@@ -25,6 +25,6 @@ Uptime: 7 Years
 ~
 ~
 ```
-
+<p align="center">
   <img src="https://count.getloli.com/@itsdasp?name=itsdasp&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" href="https://github.com/ItsDasp/" alt="itsdasp" width="400"/>
-
+</p>
